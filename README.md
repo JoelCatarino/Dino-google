@@ -1,6 +1,5 @@
 <h1 align="center"> Dio Dino Game </h1> 
 
-
 <p align="center">
   <img src="./example.png" alt="" />
 </p>
